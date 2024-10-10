@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "slug": "john-doe",
+        "image": "/assets/blog1.jpg",
+        "name": "John Doe",
+        "profession": "Content Writer",
+        "posts": [1, 2],
+        "bio": "John Doe, a co-founder of Acme and the content management system Sanity is an accomplished Staff Engineer with a specialization in Frontend at Vercel. Before his current position, he served as a Senior Engineer at Apple."
+    },
+    {
+        "id": 2,
+        "slug": "sam-smith",
+        "image": "/assets/blog1.jpg",
+        "name": "Sam Smith",
+        "profession": "Content Writer",
+        "posts": [2, 3],
+        "bio": "Sam Smith, a co-founder of Acme and the content management system Sanity is an accomplished Staff Engineer with a specialization in Frontend at Vercel. Before his current position, he served as a Senior Engineer at Apple."
+    },
+    {
+        "id": 3,
+        "slug": "ryana-kenter",
+        "image": "/assets/blog1.jpg",
+        "name": "Ryana Kenter",
+        "profession": "Content Writer",
+        "posts": [4],
+        "bio": "Ryana Kenter, a co-founder of Acme and the content management system Sanity is an accomplished Staff Engineer with a specialization in Frontend at Vercel. Before his current position, he served as a Senior Engineer at Apple."
+    },
+    {
+        "id": 4,
+        "slug": "isabella-hartman",
+        "image": "/assets/blog1.jpg",
+        "name": "Liam Mercer",
+        "profession": "Content Writer",
+        "posts": [5],
+        "bio": "Liam Mercer, a co-founder of Acme and the content management system Sanity is an accomplished Staff Engineer with a specialization in Frontend at Vercel. Before his current position, he served as a Senior Engineer at Apple."
+    },
+    {
+        "id": 6,
+        "slug": "david-queen",
+        "image": "/assets/blog1.jpg",
+        "name": "David Queen",
+        "profession": "Content Writer",
+        "posts": [6],
+        "bio":"David Queen, a co-founder of Acme and the content management system Sanity is an accomplished Staff Engineer with a specialization in Frontend at Vercel. Before his current position, he served as a Senior Engineer at Apple."
+    },
+    {
+        "id": 7,
+        "slug": "isabella-hartman",
+        "image": "/assets/blog1.jpg",
+        "name": "David Queen",
+        "profession": "Isabella HArtman",
+        "posts": [7],
+        "bio":"Isabella HArtman, a co-founder of Acme and the content management system Sanity is an accomplished Staff Engineer with a specialization in Frontend at Vercel. Before his current position, he served as a Senior Engineer at Apple."
+    }
+]

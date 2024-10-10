@@ -1,6 +1,5 @@
 import Link from 'next/link';
 import { AnimationContainer, Icons } from "@/components"
-import { TextHoverEffect } from "@/components/ui/text-hover-effect"
 
 const Footer = () => {
     return (
@@ -140,10 +139,6 @@ const Footer = () => {
                         &copy; {new Date().getFullYear()} Linkify INC. All rights reserved.
                     </p>
                 </AnimationContainer>
-            </div>
-
-            <div className="h-[20rem] lg:h-[20rem] hidden md:flex items-center justify-center">
-                <TextHoverEffect text="LINKIFY" />
             </div>
         </footer>
     )
